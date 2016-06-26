@@ -1,8 +1,7 @@
-1º Passo    terminal na pasta principal  - erl
+1º Passo       terminal in the folder type  -> erl
 2º Passo	c(server5).
 3º Passo	server5:start().
 
+Jar files are clients, execute them to create Buyers and Drivers.
 
-Depois temos dois clientes para teste, clicar duas vezes num e criar um Driver, clicar duas vezes no outro e criava um Buyer
-
-No menu register, o GUI pode nao aparecer, por isso usar tab para para escrever username, password, Type, matricula
+A bug with the Gui doesn’t show the initial menu sometimes, in those case use tab to change between text boxes (Username, Password, Type, Car Registration).
