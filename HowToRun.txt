@@ -1,0 +1,8 @@
+1º Passo    terminal na pasta principal  - erl
+2º Passo	c(server5).
+3º Passo	server5:start().
+
+
+Depois temos dois clientes para teste, clicar duas vezes num e criar um Driver, clicar duas vezes no outro e criava um Buyer
+
+No menu register, o GUI pode nao aparecer, por isso usar tab para para escrever username, password, Type, matricula
